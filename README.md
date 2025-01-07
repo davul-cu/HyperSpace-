@@ -94,6 +94,7 @@ aios-cli hive connect
 ```
 aios-cli hive points
 ```
+![Ekran görüntüsü 2025-01-07 160506](https://github.com/user-attachments/assets/a8435e3f-142f-4885-b3a1-67c144571142)
 # !! I got this error. What Can I do? Let's enter the commands separately
 ```
 cd /root/.aios
