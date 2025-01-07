@@ -74,9 +74,9 @@ aios-cli hive login
 ```
 aios-cli hive whoami
 ```
-# You will see the your public and private key
+- You will see the your public and private key
 
-## Tier Selection 
+## Now, Tier Selection 
 ```
 aios-cli hive select-tier 5
 ```
